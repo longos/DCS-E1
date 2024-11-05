@@ -1,3 +1,7 @@
+> [!CAUTION]
+> Repository moved to https://github.com/zntk-models/DCS-E1
+> <br>This one is probably outdated !
+
 # DCS-E1
 
 ## Introduction
